@@ -1,1 +1,2 @@
 hi world hi hi hi
+i am editing this to see what git commit without a message does
